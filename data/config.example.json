@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "hotkey_toggle": "<ctrl>+<alt>+s",
+  "autostart": false,
+  "start_minimized": false,
+  "play_sound": false,
+  "show_notification": true,
+  "theme": "dark",
+  "default_method": "auto",
+  "backspace_delay_ms": 10,
+  "custom_categories": [
+    "快捷编码",
+    "个人信息",
+    "工作模版",
+    "动态宏"
+  ]
+}
